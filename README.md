@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Hi! I include a note about this at the top of my viewController.swift file as well, but I encountered one bug while programming this app, and after many hours of deleting, re-adding, googling, and thinking, I could not fix it. Normally, when a user tries to type in a bill amount, the keyboard pops up, the view is shifted upward, and the segmented control and labels for tip and total appear. However, if a user tries to typ ein a bill amount (meaning the keyboard is open), swtich to settings, and then come back, the view shifts downward. The downward shift should not happen. I just wanted to explain this small dysfunctionality. I hope that I am able to avoid such bugs in the future after hopefully participating in CodePath's class! Thank you so much for your consideration. 
+Hi! I included a note about this at the top of my viewController.swift file as well, but I encountered one bug while programming this app, and after many hours of deleting, re-adding, googling, and thinking, I could not fix it. Normally, when a user tries to type in a bill amount, the keyboard pops up, the view is shifted upward, and the segmented control and labels for tip and total appear. However, if a user tries to typ ein a bill amount (meaning the keyboard is open), swtich to settings, and then come back, the view shifts downward. The downward shift should not happen. I just wanted to explain this small dysfunctionality. I hope that I am able to avoid such bugs in the future after hopefully participating in CodePath's class! Thank you so much for your consideration. Additionally, please note that this bug is not shown in the gif.
 
 ## License
 
