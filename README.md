@@ -4,7 +4,7 @@ TIPS is a tip calculator application for iOS.
 
 Submitted by: Aashima Garg
 
-Time spent: 6 hours spent in total
+Time spent: 12 hours spent in total
 
 ## User Stories
 
@@ -22,6 +22,7 @@ The following **additional** features are implemented:
 
 - [X] Settings page to change the given tip percentages 
 - [X] UIView shifts up and down when the keyboard appears/dissapears (please see notes) 
+- [X] Remembering defaults set by options in the Settings page when teh app restarts
 
 ## Video Walkthrough 
 
