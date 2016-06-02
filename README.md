@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Settings page to change the given tip percentages 
-- [X] UIView shifts up and down when the keyboard appears/dissapears (please see notes) 
-- [X] Remembering defaults set by options in the Settings page when teh app restarts
+- [X] UIView shifts up and down when the keyboard appears/dissapears 
+- [X] Remembering changed settings across app restarts
 
 ## Video Walkthrough 
 
@@ -33,8 +33,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Hi! I included a note about this at the top of my viewController.swift file as well, but I encountered one bug while programming this app, and after many hours of deleting, re-adding, googling, and thinking, I could not fix it. Normally, when a user tries to type in a bill amount, the keyboard pops up, the view is shifted upward, and the segmented control and labels for tip and total appear. However, if a user tries to type in a bill amount (meaning the keyboard is open), swtich to settings, and then come back, the view shifts downward. The downward shift should not happen. Please note that this bug is not shown in the gif.
 
 ## License
 
